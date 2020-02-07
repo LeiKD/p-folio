@@ -14,3 +14,7 @@ body {
 .projo{ 
 font-style: italic;
 }
+h1 {
+  text-align: center;
+  color: darkgreen;
+}
