@@ -7,3 +7,6 @@ body {
   background-color: rgb(216, 114, 31);
   background :linear-gradient(purple, pink, red, orange, yellow, blue);
 }
+.links {
+  float: right;
+}
