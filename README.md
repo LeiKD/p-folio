@@ -1,6 +1,6 @@
-P-folio
+## P-folio
 It is a complete webpage with links to Donald's projects, Febraury 7, 2020
-By Donald Komen
+## By Donald Komen
 
 ## Description
 P-folio is Donald's portfolio which vividly illustrates some personal information about Donald Komen. It elucidates various projects that he has worked on with active links to easen their access. Furthermore, it enumerates not only his interests and hobbies, but also his background and cradle of his interest in software development.
@@ -18,8 +18,8 @@ This project incorporates the use of HTML and CSS languages to create elaborate 
 ## Support and contact details
 Incase of any complications or technicalities, please contact either the cell-phone number: +254703171010 or the email: dkomen180@gmail.com
 
-MIT license
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+## MIT license
+
 Copyright (c) 2020 Donald Komen
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
