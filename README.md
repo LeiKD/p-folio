@@ -18,6 +18,9 @@ This project incorporates the use of HTML and CSS languages to create elaborate 
 ## Support and contact details
 Incase of any complications or technicalities, please contact either the cell-phone number: +254703171010 or the email: dkomen180@gmail.com
 
+Github pages link- leikd.github.io/p-folio
+
+
 ## MIT license
 
 Copyright (c) 2020 Donald Komen
