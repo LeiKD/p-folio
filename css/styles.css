@@ -9,4 +9,8 @@ body {
 }
 .links {
   float: right;
+  font-size: 20px;
+}
+.projo{ 
+font-style: italic;
 }
