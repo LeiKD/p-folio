@@ -1,15 +1,11 @@
-img {
-  background-color: violet;
-  border-radius: 10px;
-  border-color: red;
-}
 body {
   background-color: rgb(216, 114, 31);
   background :linear-gradient(purple, pink, red, orange, yellow, blue);
 }
 .links {
-  float: right;
+  float: unset;
   font-size: 20px;
+
 }
 .projo{ 
 font-style: italic;
@@ -17,4 +13,7 @@ font-style: italic;
 h1 {
   text-align: center;
   color: darkgreen;
+}
+img {
+
 }
