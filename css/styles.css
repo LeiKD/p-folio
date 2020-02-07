@@ -23,7 +23,15 @@ h1 {
 }
 .bg{
   border: 2px solid red;
-  padding: 6px;
+  padding: 20px;
   margin: 20px;
-  background-color: blue
+  background: linear-gradient(rgb(255, 1, 1), orange, blue);
+  border-radius: 20px;
+}
+.intr {
+  border: 2px yellow;
+  padding: 20px;
+  margin: 20px;
+  background: linear-gradient(yellow, orange, blue);
+  border-radius: 10px;
 }
