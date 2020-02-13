@@ -1,9 +1,76 @@
-img {
-  background-color: violet;
-  border-radius: 10px;
-  border-color: red;
-}
 body {
   background-color: rgb(216, 114, 31);
   background :linear-gradient(purple, pink, red, orange, yellow, blue);
+  
+}
+.links {
+  font-size: 20px;
+  text-align: center; 
+}
+.links > ul {
+  display: inline-block;
+}
+.projo{ 
+font-style: italic;
+}
+h1 {
+  text-align: center;
+  text-decoration-line: underline;
+  color: rgb(244, 248, 9);
+  font-style: inherit;
+  fo
+}
+.lan {
+  font-style: italic;
+  font-weight: bolder;
+}
+.bg{
+  border: 2px solid red;
+  padding: 20px;
+  margin: 20px;
+  background: linear-gradient(rgb(255, 1, 1), orange, blue);
+  border-radius: 20px;
+}
+.intr {
+  border: 2px yellow;
+  padding: 20px;
+  margin: 20px;
+  background: linear-gradient(yellow, orange, blue);
+  border-radius: 20px;
+  
+}
+em {
+  font-weight: 800;
+}
+img {
+  border-radius: 20px;
+  
+}
+.cont {
+  text-align: center;
+}
+.cont > ul {
+  display: inline-block;
+}
+h2 {
+  text-decoration-line: underline;
+}
+ul {
+  list-style-position: initial;
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  
+}
+h3 {
+  text-decoration-line: underline;
+}
+.cont {
+  border: 2px blue;
+  padding: 20px yellow;
+  margin: 20px orange;
+
 }
