@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-## P-folio
-=======
+
 ## p-folio
->>>>>>> b86064d06046ab5bbe6085ab6bcec605367c29db
+
 It is a complete webpage with links to Donald's projects, Febraury 7, 2020
 ## By Donald Komen
 
