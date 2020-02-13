@@ -1,6 +1,4 @@
-
 ## p-folio
-
 It is a complete webpage with links to Donald's projects, Febraury 7, 2020
 ## By Donald Komen
 
